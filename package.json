@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "electron-prebuilt": "^0.37.4",
+    "electron-prebuilt": "^1.4.13",
     "hoxy": "^3.2.0"
   }
 }
